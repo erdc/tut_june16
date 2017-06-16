@@ -1,0 +1,2 @@
+[    1308] Comm.get called before init, init is being called for you.
+[    1308] Proteus.Profiling never initialized. Doing it at exit.
